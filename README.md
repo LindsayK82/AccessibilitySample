@@ -1,8 +1,6 @@
-# Accessability Sample Page
+# Accessibility Sample Page
 
 ## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 -The motivation for this project was to provide a sample page showing accessibility options. I built this page to display the skills I have acquired to leap these hurdles. Adding accessibility features ensures ease of use for any user, and provides a welcoming experience.
 
