@@ -1,4 +1,4 @@
-# Accessability Sample Page
+# Accessibility Sample Page
 
 ## Description
 
